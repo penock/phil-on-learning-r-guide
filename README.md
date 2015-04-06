@@ -1,9 +1,5 @@
----
-title: "Phil on Learning R: The Training Sequence"
-author: "Phil Enock"
-date: "July 2014"
-output: html_document
----
+# Phil on Learning R: The Training Sequence
+by Phil Enock, written July 2013, updated July 2014
 
 ## Introduction
 This guide I wrote should be useful for anyone just getting started with R who is willing to commit to investing time in the learning process. It's not a rush-to-get-something-running guide. It's more "how to go in depth" with your learning.
