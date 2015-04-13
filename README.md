@@ -12,7 +12,7 @@ I guess I wrote it as a reaction to how many intros to R (whether in a guide, cl
 They key files here are:
 
   - [phil-on-learning-r-guide.pdf](phil-on-learning-r-guide.pdf): The guide, a 21-page PDF
-  - [ph-shareable-functions.R](phil-on-learning-r-guide.pdf): A few useful functions, most notably:
+  - [ph-shareable-functions.R](ph-shareable-functions.R): A few useful functions, most notably:
    * op(dataframe): Outputs a data frame to CSV and runs it... so, this will view the data in Excel if you have Excel
    * op.oe.SPSS(dataframe): Outputs data frame from R to SPSS, creating a CSV and syntax to run from SPSS... this is crucial if you're working with data in both SPSS and R, and I had to write it from scratch as existing solutions didn't work
   - [ph-shareable-functions-op-demo.R]: Demonstrates the ph-shareable-functions
